@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61284814752-a8vc3vbltf0lgsh5saeci2j5564pcu7i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61284814752-a8vc3vbltf0lgsh5saeci2j5564pcu7i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuvDjE87I_L4QkaonyGVLxg55vW6lKv0o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61284814752</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.freetime.freetime.FreeTime.FreeTime</string>
+	<key>PROJECT_ID</key>
+	<string>freetime-50abe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>freetime-50abe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61284814752:ios:8e8a2749ce57fe36</string>
+	<key>DATABASE_URL</key>
+	<string>https://freetime-50abe.firebaseio.com</string>
+</dict>
+</plist>
