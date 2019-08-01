@@ -9,6 +9,6 @@
 import UIKit
 
 struct Constants {
-    static let ebaySecurityAppName = "CountyPr-FreeTime-PRD-c796e0ff6-db4569d6"
+    static let ebaySecurityAppName = "someSecuirtyAPPName"
     static let mainColor = UIColor.rgb(r: 236, g: 244, b: 252)
 }
