@@ -1,2 +1,4 @@
-# IGListKit-Blinding-Example
-Example showing how to use IGListKit binding with Firebase and Geofire (ViewModels). This an ongoing project.
+# Ebay-avarage-pricing
+
+
+This is an example project showing how to use Ebay to get average pricing of desired products
